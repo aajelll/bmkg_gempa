@@ -1,1 +1,0 @@
-# bmkg_gempa
